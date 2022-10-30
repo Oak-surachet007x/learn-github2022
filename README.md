@@ -1,3 +1,4 @@
 # learn-github2022
 
-about me like engineer computer
+about me 
+I like engineer computer
